@@ -8,7 +8,7 @@ import LoginPage from './pages/LoginPage';
 import RegisterPage from './pages/RegisterPage';
 import DashboardPage from './pages/DashboardPage';
 import TransactionsPage from './pages/TransactionsPage';     // Lista de todas as contas
-import AccountDashboard from './pages/AccountDashboard';     // <--- RECUPERADO: Detalhes de uma conta específica
+import AccountDashboard from './features/accounts/pages/AccountDashboard';     // <--- RECUPERADO: Detalhes de uma conta específica
 import FixedExpensesPage from './pages/FixedExpensesPage';
 import CardsPage from './pages/CardsPage'; 
 
